@@ -85,6 +85,7 @@ set(
     operators/validate_test.cpp
     operators/validate_visibility_test.cpp
     statistics/chunk_statistics/pruning_filters_test.cpp
+    statistics/chunk_statistics/min_max_filter_test.cpp
     statistics/column_statistics_test.cpp
     statistics/table_statistics_join_test.cpp
     statistics/table_statistics_test.cpp
